@@ -11,9 +11,9 @@ Topics: Arrays, Linked Lists, OOP, Hash Maps
 Grade: 88
 
 ## Assignment 2
-Topics:
+Topics: Simplified Chess Game Implementation
 
-Grade: 
+Grade: 100
 
 ## Assignment 3
 Topics:
