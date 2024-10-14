@@ -16,9 +16,9 @@ Topics: Simplified Chess Game Implementation
 Grade: 100
 
 ## Assignment 3
-Topics:
+Topics: Recursion
 
-Grade: 
+Grade: 74
 
 ## Assignment 4
 Topics:
